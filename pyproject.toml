@@ -10,6 +10,8 @@ black = "^21.11b1"
 jupyter = "^1.0.0"
 isort = "^5.10.1"
 flake8 = "^4.0.1"
+pytest = "^7.1.2"
+numpy = "^1.22.3"
 
 [tool.poetry.dev-dependencies]
 
